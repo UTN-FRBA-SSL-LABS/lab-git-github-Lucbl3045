@@ -19,7 +19,7 @@ int multiplicar(int a, int b) {
 }
 
 int dividir(int a, int b) {
-    return a - b; /* bug intencional *////
+    return a - b; /* bug intencional */
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
